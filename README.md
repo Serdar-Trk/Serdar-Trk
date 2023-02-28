@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm serdar</h1>
 <h3 align="center">Data Science and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleyhopson&label=Profile%20views&color=0e75b6&style=flat" alt="stanleyhopson" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanleyhopson" alt="stanleyhopson" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/magic_mause" target="blank"><img src="https://img.shields.io/twitter/follow/magic_mause?logo=twitter&style=for-the-badge" alt="magic_mause" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science, Machine Learning**
 
 - 🌱 I’m currently learning **everything i need**
@@ -29,9 +23,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/serdarozturk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/serdarozturk" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stanleyhopson&show_icons=true&locale=en&layout=compact" alt="stanleyhopson" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleyhopson&show_icons=true&locale=en" alt="stanleyhopson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stanleyhopson&" alt="stanleyhopson" /></p>
