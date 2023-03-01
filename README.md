@@ -22,13 +22,6 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/serdar-ozturk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serdar-ozturk/" height="30" width="40" /></a>
-<a href="https://kaggle.com/serdarsozturk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/serdarsozturk/" height="30" width="40" /></a>  
-<a href="https://medium.com/@serdar.f95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@serdar.f95" height="30" width="40" /></a> 
-<a href="https://stackoverflow.com/users/mr-hapson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/mr-hapson" height="30" width="40" /></a>  
-<a href="https://www.hackerearth.com/@serdar.f95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@serdar.f95" height="30" width="40" /></a> 
-</p>
+
 
 
