@@ -21,7 +21,17 @@
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
 
-![Snake animation](https://github.com/StanleyHopson/github-contribution-grid-snake.svg)
+###
+<div align="center">
+<a href="https://github.com/StanleyHopson"> 
+   <img height="150em" alt="stats graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StanleyHopson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+</a>
+<a href="https://github.com/StanleyHopsons">
+   <img height="150em" alt="languages graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StanleyHopson&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+</div>
+            
+![Snake animation](https://github.com/StanleyHopson/StanleyHopson/blob/output/github-contribution-grid-snake.svg)
 
 
 
