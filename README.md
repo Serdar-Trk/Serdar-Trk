@@ -31,7 +31,11 @@
 </a>
 </div>
             
-![Snake animation](https://github.com/StanleyHopson/famalaquias/blob/output/github-contribution-grid-snake.svg)
+           
+![Snake animation]( https://platane.github.io/snk//github-contribution-grid-snake.svg)
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
