@@ -33,7 +33,5 @@
            
 - name: gitartwork on contribution graph
   uses: StanleyHopson/gitartwork@v1
-StanleyHopson     
-  StanleyHopson
 
 
