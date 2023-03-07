@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nobody</h1>
+<h1 align="center">Hi, I'm sᴇʀᴅᴀʀ </h1>
 <h3 align="center">Data Science and Machine Learning</h3>
 
 - 🔭 I’m currently working on **Data Science, Machine Learning**
