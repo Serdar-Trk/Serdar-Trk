@@ -20,17 +20,6 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
-
-
-###
-<div align="center">
-<a href="https://github.com/StanleyHopson"> 
-   <img height="150em" alt="stats graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StanleyHopson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-</a>
-<a href="https://github.com/StanleyHopsons">
-   <img height="150em" alt="languages graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StanleyHopson&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-</div>
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
 <div align="center">
@@ -40,7 +29,7 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮\/__-__\/❯  M.Learning isn't about what you know @@
 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
@@ -58,6 +47,14 @@
 ```
   
 </div>         
+<div align="center">
+<a href="https://github.com/StanleyHopson"> 
+   <img height="150em" alt="stats graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StanleyHopson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+</a>
+<a href="https://github.com/StanleyHopsons">
+   <img height="150em" alt="languages graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StanleyHopson&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
