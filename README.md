@@ -51,9 +51,6 @@
 <a href="https://github.com/StanleyHopson"> 
    <img height="150em" alt="stats graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StanleyHopson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </a>
-<a href="https://github.com/StanleyHopsons">
-   <img height="150em" alt="languages graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StanleyHopson&layout=compact&langs_count=7&theme=dracula"/>
-</a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
