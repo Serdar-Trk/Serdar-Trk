@@ -62,4 +62,14 @@
 <a href="https://www.hackerearth.com/@serdar.f95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@serdar.f95" height="30" width="40" /></a> 
 </p>
 
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img src="https://camo.githubusercontent.com/5727cceaf70d64b4b7b227987461b67ec8a93473be1cdb2a2ac72b507c72bba0/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d7472696e696226637573746f6d5f7469746c653d254532253936253931254532253936253931282545322539372541335f2545322539372541322925453225393625393125453225393625393126686964655f626f726465723d74727565267468656d653d72656163742d6461726b26636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 
