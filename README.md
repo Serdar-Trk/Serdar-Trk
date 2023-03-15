@@ -68,6 +68,6 @@
 <img src="https://camo.githubusercontent.com/5727cceaf70d64b4b7b227987461b67ec8a93473be1cdb2a2ac72b507c72bba0/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d7472696e696226637573746f6d5f7469746c653d254532253936253931254532253936253931282545322539372541335f2545322539372541322925453225393625393125453225393625393126686964655f626f726465723d74727565267468656d653d72656163742d6461726b26636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StanleyHopson)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StanleyHopson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
