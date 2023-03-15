@@ -63,9 +63,3 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>  
 
-
-<div align="center">
-<a href="https://github.com/StanleyHopson"> 
-   <img height="150em" alt="stats graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StanleyHopson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-</a>
-</div>
