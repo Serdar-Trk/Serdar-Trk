@@ -24,7 +24,7 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯  M.Learning isn't about what you know @@    
+@@   ❮\/__-__\/❯   M.Learning isn't about what you know @@    
 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
@@ -35,13 +35,13 @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
+@@     |_| |_|   and failure leads to underding        @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StanleyHopson&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Serdar-Trk&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
