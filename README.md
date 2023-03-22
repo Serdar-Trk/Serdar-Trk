@@ -17,7 +17,8 @@
 </p>
 
 
-
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
@@ -47,10 +48,12 @@
   
 </div>
 
-
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Serdar-Trk&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <h3 align="left">Connect with me:</h3>
