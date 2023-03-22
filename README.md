@@ -15,6 +15,13 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
+
+
+
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
 <div align="center">
@@ -24,7 +31,7 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@ \/__-__\/❯ M.Learning isn't about what you know   @@    
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
@@ -35,11 +42,15 @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to underding        @@
+@@     |_| |_|   and failure leads to understanding    @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
+  
+</div>
+
+
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Serdar-Trk&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
