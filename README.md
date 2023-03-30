@@ -65,7 +65,7 @@
 <a href="https://www.hackerearth.com/@serdar.f95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@serdar.f95" height="30" width="40" /></a> 
 </p>
 
-.
+
 
 
 
