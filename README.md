@@ -28,7 +28,7 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ M.Learning isn't about what you know  @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
